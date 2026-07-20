@@ -6,12 +6,12 @@ My background is a unique mix of IT Infrastructure, System Administration, and P
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 *   **E2E UI Automation (Swag Labs):** An enterprise-grade automated testing framework built with Playwright and Sentry to hunt down real-world UI/UX bugs and performance glitches.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 *   **Programming & Automation:** Python (RPA), C/C++, PHP, HTML, CSS, JavaScript.
 *   **Quality Assurance:** QA Testing, Software Testing, Full SDLC, E2E Automation.
 *   **Infrastructure & Network:** Windows Server Administration (IIS), MikroTik RouterOS (MTCNA Certified), Cloudflare Reverse Proxy.
@@ -19,7 +19,7 @@ My background is a unique mix of IT Infrastructure, System Administration, and P
 
 ---
 
-### 🏆 Certifications
+### Certifications
 *   MikroTik Certified Network Associate (MTCNA)
 *   Junior Network Administrator - BNSP
 *   Fundamentals of Digital Marketing - Google Digital Academy
@@ -27,7 +27,7 @@ My background is a unique mix of IT Infrastructure, System Administration, and P
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 *   **LinkedIn:** www.linkedin.com/in/ignasius-mario-c
 *   **Email:** marioo888999@gmail.com
 
